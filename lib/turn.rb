@@ -42,5 +42,5 @@ end
 
 def turn
   puts "Please enter 1-9"
-  turn 
+  turn = gets.i
 end
