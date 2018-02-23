@@ -42,5 +42,5 @@ end
 
 def turn(input)
   puts "Please enter 1-9:"
-  turn = gets.i
+  turn = gets.input
 end
